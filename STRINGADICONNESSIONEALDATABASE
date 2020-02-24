@@ -1,0 +1,1 @@
+    String connString = "jdbc:sqlserver://\\localhost:1433; databaseName=dbprova;integratedSecurity=true;";

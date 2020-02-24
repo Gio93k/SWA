@@ -1,0 +1,14 @@
+Una paginetta con un elenco di cose da fare (TODO list) , 
+dove puoi aggiungere o rimuoverle, e tutte le volte che lo fai viene salvato 
+l' elenco chiamando da javascript con una chiamata ajax un servizio scritto in 
+java che comunica con il database sqlserver per salvare e modificare gli elementi 
+della TODO list su una tabella.
+
+
+https://www.html.it/guide/guida-jquery/
+
+https://www.html.it/guide/restful-web-services-la-guida/
+
+https://codingjam.it/web-services-for-dummies-creare-un-servizio-web-soap-per-tomcat-il-producer/
+
+https://www.codejava.net/java-se/jdbc/connect-to-microsoft-sql-server-via-jdbc
